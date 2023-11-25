@@ -11,7 +11,7 @@ Kelas : TI.22.A1
 |-----|------|-----|
 |1|Instruksi Praktikum|[Click Here](#instruksi-praktikum)|
 |2|Langkah-langkah Praktikum|[Click Here](#langkah-langkah-praktikum)|
-|3|Result|[Click Here](#result)|
+|3|Result|[Click Here](#Hasil)|
 
 ## Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
@@ -107,6 +107,10 @@ header('location: index.php');
 
 ## Hasil
 
+
+
+
+https://github.com/AzwaDipani/lab8Web/assets/115677539/4c60a03c-48f1-4115-a5a4-5d57b7e6a478
 
 
 
